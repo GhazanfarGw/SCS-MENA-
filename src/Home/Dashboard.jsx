@@ -22,7 +22,7 @@ function Dashboard() {
                     <div className='md:px-10 px-5 pt-5 md:pt-40 mx-auto'>
                         <div className='second text-left'>
                             <h1 data-aos="zoom-in-up" data-aos-delay="300" data-aos-duration="400" className='xl:text-6xl lg:text-5xl text-3xl md:text-5xl items-center duration-300 text-[#1A2B6B] font-medium'>
-                                Trusted crypto compliance, sanctions & aml experts
+                                Trusted crypto compliance, sanctions & AML experts
                             </h1>
                         </div>
                         <div className='third md:pt-5 pt-5 text-base tracking-wider duration-500 max-w-screen-sm justify-start'>
